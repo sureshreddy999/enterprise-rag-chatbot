@@ -1,0 +1,19 @@
+EMPLOYEE HANDBOOK
+Version: 2026.1
+
+Annual Leave
+Full-time employees receive 20 working days of annual leave per calendar year.
+Employees should request planned leave through the company leave portal at least five working days before the intended start date whenever practical.
+Unused annual leave may be carried forward according to the applicable local employment policy.
+
+Remote Work
+Employees may work remotely up to three days per week when their role and team operating model support remote work.
+Employees working remotely must remain reachable during their agreed working hours and must use company-approved devices and collaboration tools.
+Managers may require employees to attend on-site meetings when business needs require physical presence.
+
+Working Hours
+Standard working hours are 9:00 AM to 6:00 PM local time, Monday through Friday, excluding approved holidays.
+Teams may have different schedules when documented by the manager.
+
+Information Security
+Company information must only be stored in approved systems. Employees must not upload confidential company information to personal cloud storage.

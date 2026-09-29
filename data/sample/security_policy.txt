@@ -1,0 +1,15 @@
+INFORMATION SECURITY POLICY
+Version: 2026.2
+
+Security Incident Reporting
+Employees must report suspected security incidents to the Security Operations team through the approved incident reporting channel as soon as possible.
+Examples include suspected credential theft, malware, accidental disclosure of confidential information, and unauthorized access.
+
+Suspicious Email
+Employees who receive a suspicious email should not click links, open unexpected attachments, or reply with credentials.
+The message should be reported using the company's phishing-reporting mechanism.
+If a user has already clicked a suspicious link or entered credentials, they should immediately report the event and reset credentials using the approved password-management process.
+
+Password Management
+Passwords must not be shared with colleagues or stored in plain text.
+Employees should use the approved password manager for company credentials.

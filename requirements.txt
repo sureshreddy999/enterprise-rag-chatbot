@@ -1,0 +1,35 @@
+# Core
+fastapi>=0.115,<1
+uvicorn[standard]>=0.34,<1
+pydantic>=2.10,<3
+pydantic-settings>=2.7,<3
+python-multipart>=0.0.20,<1
+python-dotenv>=1.0,<2
+
+# LangChain
+langchain>=0.3,<2
+langchain-community>=0.3,<1
+langchain-core>=0.3,<2
+langchain-text-splitters>=0.3,<1
+langchain-openai>=0.3,<1
+langchain-ollama>=0.2,<1
+
+# Embeddings / vector search
+sentence-transformers>=3.4,<6
+faiss-cpu>=1.9,<2
+
+# Document parsing
+pypdf>=5,<7
+python-docx>=1.1,<2
+
+# Database
+SQLAlchemy>=2.0,<3
+
+# UI
+streamlit>=1.40,<2
+requests>=2.32,<3
+
+# Data / utilities
+numpy>=1.26,<3
+pandas>=2.2,<3
+tenacity>=9,<10

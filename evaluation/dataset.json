@@ -1,0 +1,18 @@
+[
+  {
+    "question": "How many annual leave days are available to employees?",
+    "gold_sources": ["employee_handbook.txt"]
+  },
+  {
+    "question": "What is the remote work policy?",
+    "gold_sources": ["employee_handbook.txt"]
+  },
+  {
+    "question": "How should employees report a security incident?",
+    "gold_sources": ["security_policy.txt"]
+  },
+  {
+    "question": "What should an employee do after receiving a suspicious email?",
+    "gold_sources": ["security_policy.txt"]
+  }
+]

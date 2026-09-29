@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+env/
+.env
+.DS_Store
+*.log
+
+# Runtime data
+data/documents/*
+data/faiss/*
+data/rag.db
+
+# Keep directories
+!data/documents/.gitkeep
+!data/faiss/.gitkeep
